@@ -1,0 +1,56 @@
+distance,cab_type,time_stamp,destination,source,price,surge_multiplier,id,product_id,name,temp,location,clouds,pressure,rain,humidity,wind
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.54,Back Bay,0.42,991.75,,0.83,5.9
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.49,Beacon Hill,0.42,991.8,,0.84,5.89
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.59,Boston University,0.42,991.81,,0.83,5.78
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.3,Fenway,0.42,991.82,,0.84,5.82
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,34.17,Financial District,0.42,991.74,,0.81,5.97
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.38,Haymarket Square,0.42,991.79,,0.84,5.92
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.42,North End,0.42,991.73,,0.84,5.95
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.33,North Station,0.42,991.79,,0.84,5.9
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.21,Northeastern University,0.42,991.82,,0.84,5.87
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,34.13,South Station,0.42,991.75,,0.81,5.98
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.21,Theatre District,0.42,991.8,,0.85,5.93
+1.22,Uber,2018-11-28 09:32:18,Northeastern University,Back Bay,10.5,1.0,85de4cd6-9dfb-42f1-a365-66ea58c2d3ca,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.27,West End,0.42,991.79,,0.84,5.89
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.54,Back Bay,0.42,991.75,,0.83,5.9
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.49,Beacon Hill,0.42,991.8,,0.84,5.89
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.59,Boston University,0.42,991.81,,0.83,5.78
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.3,Fenway,0.42,991.82,,0.84,5.82
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,34.17,Financial District,0.42,991.74,,0.81,5.97
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.38,Haymarket Square,0.42,991.79,,0.84,5.92
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.42,North End,0.42,991.73,,0.84,5.95
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.33,North Station,0.42,991.79,,0.84,5.9
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.21,Northeastern University,0.42,991.82,,0.84,5.87
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,34.13,South Station,0.42,991.75,,0.81,5.98
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.21,Theatre District,0.42,991.8,,0.85,5.93
+2.79,Uber,2018-11-28 09:32:18,Beacon Hill,Boston University,15.0,1.0,c3e5b222-5f10-418c-9946-3e1ae292f1f3,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,33.27,West End,0.42,991.79,,0.84,5.89
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.54,Back Bay,0.42,991.75,,0.83,5.9
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.49,Beacon Hill,0.42,991.8,,0.84,5.89
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.59,Boston University,0.42,991.81,,0.83,5.78
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.3,Fenway,0.42,991.82,,0.84,5.82
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,34.17,Financial District,0.42,991.74,,0.81,5.97
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.38,Haymarket Square,0.42,991.79,,0.84,5.92
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.42,North End,0.42,991.73,,0.84,5.95
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.33,North Station,0.42,991.79,,0.84,5.9
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.21,Northeastern University,0.42,991.82,,0.84,5.87
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,34.13,South Station,0.42,991.75,,0.81,5.98
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.21,Theatre District,0.42,991.8,,0.85,5.93
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,7.0,1.0,161e3433-4d30-442a-b823-4849fbc65474,lyft_line,Shared,33.27,West End,0.42,991.79,,0.84,5.89
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.54,Back Bay,0.42,991.75,,0.83,5.9
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.49,Beacon Hill,0.42,991.8,,0.84,5.89
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.59,Boston University,0.42,991.81,,0.83,5.78
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.3,Fenway,0.42,991.82,,0.84,5.82
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,34.17,Financial District,0.42,991.74,,0.81,5.97
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.38,Haymarket Square,0.42,991.79,,0.84,5.92
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.42,North End,0.42,991.73,,0.84,5.95
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.33,North Station,0.42,991.79,,0.84,5.9
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.21,Northeastern University,0.42,991.82,,0.84,5.87
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,34.13,South Station,0.42,991.75,,0.81,5.98
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.21,Theatre District,0.42,991.8,,0.85,5.93
+2.38,Lyft,2018-11-28 09:32:18,Fenway,Beacon Hill,16.5,1.0,5de88d57-918b-42f4-b917-c6bdd88f9567,lyft_premier,Lux,33.27,West End,0.42,991.79,,0.84,5.89
+1.61,Uber,2018-11-29 02:02:08,Haymarket Square,Theatre District,8.5,1.0,411e494a-a970-4b30-9b38-4a78d1978539,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX,38.51,Back Bay,0.54,997.83,,0.7,10.23
+1.63,Uber,2018-11-29 02:02:08,West End,South Station,26.0,1.0,b1a3e518-7d8d-41d5-b25d-6a70bb1e7c60,6d318bcc-22a3-4af6-bddd-b409bfce1546,Black SUV,38.51,Back Bay,0.54,997.83,,0.7,10.23
+1.65,Uber,2018-11-29 02:02:08,Back Bay,Northeastern University,9.5,1.0,27b6715b-f4f4-4a13-b7db-f3869ee36f59,55c66225-fbe7-4fd5-9072-eab1ece5e23e,UberX,38.51,Back Bay,0.54,997.83,,0.7,10.23
+1.65,Uber,2018-11-29 02:02:08,Back Bay,Northeastern University,13.5,1.0,492ca6a3-534f-4230-a0a3-fd5c737ff144,6f72dfc5-27f1-42e8-84db-ccc7a75f6969,UberXL,38.51,Back Bay,0.54,997.83,,0.7,10.23
+1.65,Uber,2018-11-29 02:02:08,Back Bay,Northeastern University,9.5,1.0,5bf213ca-a46d-4af0-8873-36b467f46b84,997acbb5-e102-41e1-b155-9df7de0a73f2,UberPool,38.51,Back Bay,0.54,997.83,,0.7,10.23
+1.65,Uber,2018-11-29 02:02:08,Back Bay,Northeastern University,9.5,1.0,663768fc-6387-4e7b-a8f9-418d4f77d622,9a0e7b09-b92b-4c41-9779-2ad22b4d779d,WAV,38.51,Back Bay,0.54,997.83,,0.7,10.23
+1.65,Uber,2018-11-29 02:02:08,Back Bay,Northeastern University,,1.0,f7d3c6ed-9574-48ac-bebe-9b243aef29cc,8cf7e821-f0d3-49c6-8eba-e679c0ebcf6a,Taxi,38.51,Back Bay,0.54,997.83,,0.7,10.23
