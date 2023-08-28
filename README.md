@@ -1,4 +1,4 @@
-### Relation between Uber usage and weather
+# Relation between Uber usage and weather
 
 ## Team Members
 •	Lee Amstrong  
